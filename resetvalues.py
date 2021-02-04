@@ -7,7 +7,7 @@ mychorespath = "chrislog.txt"
 otherlogpath = "evanlog.txt"
 othersumpath = "evansum.txt"
 
-dropbox_access_token= "Q22At0HeNXAAAAAAAAAAEwBD7CXHFR8yG0BUZuCVV-_HGpBfDzyQOj2Lw8mXqXeG"    
+dropbox_access_token= "8ir-9dbTA8oAAAAAAAAAAcLaEySyI34UiJqFhPLCYR4xUGry83woZWxS8f5N5uV5"    
 dropbox_path= "/Application/"
 computer_path=""
 client = dropbox.Dropbox(dropbox_access_token)
